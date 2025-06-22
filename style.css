@@ -87,7 +87,7 @@ body{
 }
 
 h1{
-    font-size: var(--fw-700);
+    font-weight: var(--fw-700);
     font-size: var(--ff-18);
     color: var(--very-dark-desaturated-blue);
 }
@@ -119,7 +119,7 @@ h1{
 }
 
 .social-value{
-    font-size: var(--fw-700);
+    font-weight: var(--fw-700);
     color: var(--very-dark-desaturated-blue);
 }
 
